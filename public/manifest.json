@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "MA99",
+  "short_name": "MA99",
+  "description": "MA99 - المنصة الأكاديمية والتحديات الهندسية والذكاء الاصطناعي والمواد التعليمية",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1527",
+  "theme_color": "#0d1527",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

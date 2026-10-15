@@ -1,0 +1,6 @@
+{
+  "name": "Study Challenge",
+  "description": "تطبيق التحديات الدراسية والمسابقات والمساعد الذكي لطلاب الجامعات مع تسجيل دخول حقيقي بحساب Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
